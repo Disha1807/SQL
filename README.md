@@ -1,3 +1,4 @@
 # SQL
 
-- Credit card Transcation project
+- Credit card Transcation project.
+- Olympic History
